@@ -1,0 +1,54 @@
+============================= test session starts ==============================
+collecting ... collected 46 items
+
+spmatrix_pytest_priv.py::test_01 FAILED
+spmatrix_pytest_priv.py::test_02 FAILED
+spmatrix_pytest_priv.py::test_03 FAILED
+spmatrix_pytest_priv.py::test_04 FAILED
+spmatrix_pytest_priv.py::test_05 FAILED
+spmatrix_pytest_priv.py::test_06 FAILED
+spmatrix_pytest_priv.py::test_07 FAILED
+spmatrix_pytest_priv.py::test_08 FAILED
+spmatrix_pytest_priv.py::test_09 FAILED
+spmatrix_pytest_priv.py::test_10 FAILED
+spmatrix_pytest_priv.py::test_11 FAILED
+spmatrix_pytest_priv.py::test_12 FAILED
+spmatrix_pytest_priv.py::test_13 FAILED
+spmatrix_pytest_priv.py::test_14 FAILED
+spmatrix_pytest_priv.py::test_15 FAILED
+spmatrix_pytest_priv.py::test_16 FAILED
+spmatrix_pytest_priv.py::test_17 FAILED
+spmatrix_pytest_priv.py::test_18 FAILED
+spmatrix_pytest_priv.py::test_19 FAILED
+spmatrix_pytest_priv.py::test_20 FAILED
+spmatrix_pytest_priv.py::test_21 FAILED
+spmatrix_pytest_priv.py::test_22 FAILED
+spmatrix_pytest_priv.py::test_23 FAILED
+spmatrix_pytest_priv.py::test_24 FAILED
+spmatrix_pytest_priv.py::test_25 FAILED
+spmatrix_pytest_priv.py::test_26 FAILED
+spmatrix_pytest_priv.py::test_27 FAILED
+spmatrix_pytest_priv.py::test_28 FAILED
+spmatrix_pytest_priv.py::test_29 FAILED
+spmatrix_pytest_priv.py::test_30 FAILED
+spmatrix_pytest_priv.py::test_31 FAILED
+spmatrix_pytest_priv.py::test_32 FAILED
+spmatrix_pytest_priv.py::test_33 FAILED
+spmatrix_pytest_priv.py::test_34 FAILED
+spmatrix_pytest_priv.py::test_35 FAILED
+spmatrix_pytest_priv.py::test_36 FAILED
+spmatrix_pytest_priv.py::test_37 FAILED
+spmatrix_pytest_priv.py::test_38 FAILED
+spmatrix_pytest_priv.py::test_39 FAILED
+spmatrix_pytest_priv.py::test_40 FAILED
+spmatrix_pytest_priv.py::test_41 FAILED
+spmatrix_pytest_priv.py::test_42 FAILED
+spmatrix_pytest_priv.py::test_43 FAILED
+spmatrix_pytest_priv.py::test_44 FAILED
+spmatrix_pytest_priv.py::test_45 FAILED
+spmatrix_pytest_priv.py::test_46 FAILED
+
+============================== slowest durations ===============================
+
+(138 durations < 1s hidden.  Use -vv to show these durations.)
+============================== 46 failed in 0.03s ==============================
